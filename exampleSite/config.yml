@@ -43,8 +43,8 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: Noor Arabian
+    text: Welcome to Noor Arabian LLC
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
